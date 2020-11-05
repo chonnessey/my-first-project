@@ -7,3 +7,5 @@ This is my first independent project, being turned in to Epicodus for Code revie
 HTML
 CSS
 Git
+# Link to code
+https://github.com/chonnessey/my-first-project/blob/gh-pages/index.html
