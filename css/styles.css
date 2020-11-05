@@ -14,3 +14,11 @@
     width: 25%;
     height: 25%;
   }
+
+  .Hobbies {
+    width: 25%;
+    border: solid black;
+    border-width: 2px;
+    background-color: orange;
+    font-style: italic;
+  }
