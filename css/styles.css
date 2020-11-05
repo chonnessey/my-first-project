@@ -22,3 +22,7 @@
     background-color: orange;
     font-style: italic;
   }
+
+  p.epicodus {
+    color: purple;
+  }
