@@ -26,3 +26,8 @@
   p.epicodus {
     color: purple;
   }
+
+  .highlight {
+    font-size: larger;
+    color: red;
+  }
