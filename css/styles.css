@@ -4,3 +4,7 @@
   text-align: center;
   font-style: italic;
   }
+
+  p.intro {
+    font-style: italic;
+  }
